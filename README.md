@@ -1,4 +1,4 @@
-# Social Distancing AI
+# Social Distancing
    Tool to monitor social distancing from CCTV, videos using Python, Deep learning, Computer Vision. This tool can 
    automatically estimate interpersonal distance from uncalibrated RGB cameras. Can be used at public places and workplace.
 
@@ -12,7 +12,7 @@
    * Calculates the distance between every human who is detected in the frame.
    * Shows how many people are at High, Low and Not at risk.
    
-   To can find more about this topic in my post : [Social Distancing AI](https://medium.com/@birla.deepak26/social-distancing-ai-using-python-deep-learning-c26b20c9aa4c)
+   To can find more about this topic in my post : [Social Distancing](https://medium.com/@birla.deepak26/social-distancing-ai-using-python-deep-learning-c26b20c9aa4c)
 
 ## Demo:
 ![Demo](./demo/social_distancing.gif)
@@ -87,7 +87,7 @@ More result frames are in output folder
 
 ## Documentation:
 
-   You can find more about this implementation in my post :[Social Distancing AI](https://medium.com/@birla.deepak26/social-distancing-ai-using-python-deep-learning-c26b20c9aa4c)
+   You can find more about this implementation in my post :[Social Distancing](https://medium.com/@birla.deepak26/social-distancing-ai-using-python-deep-learning-c26b20c9aa4c)
 
 ## Idea Credits:
 
