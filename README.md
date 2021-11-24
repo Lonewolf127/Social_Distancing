@@ -98,10 +98,5 @@ More result frames are in output folder
    Yolov3 object detection : https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
    Prespective Transform : https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_geometric_transformations/py_geometric_transformations.html
 
-## License:
-
-   Copyright © 2020, [Deepak Birla](https://github.com/deepak112). 
-   Released under the [MIT License](https://github.com/deepak112/Social-Distancing-AI/blob/master/LICENSE).
-
 
 
